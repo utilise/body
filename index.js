@@ -1,4 +1,4 @@
-var key = require('key')
+var key = require('utilise.key')
 
 module.exports = function body(ripple){
   return function(name){
